@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "prajjwal",
+        "class": "12th",
+        "age": 24
+    },
+    {
+        "id": 2,
+        "class": "12th",
+        "age": 24,
+        "name": "ayush"
+    },
+    {
+        "id": 3,
+        "name": "allo",
+        "class": "13th",
+        "age": 25
+    },
+    {
+        "id": 4,
+        "class": "12th",
+        "age": 34,
+        "name": "ayushhh"
+    },
+    {
+        "id": 5,
+        "name": "arvinddd",
+        "class": "13th",
+        "age": 28
+    },
+    {
+        "id": 6,
+        "class": "12th",
+        "age": 34,
+        "name": "ayushman"
+    },
+    {
+        "id": 7,
+        "name": "arvindmishra",
+        "class": "13th",
+        "age": 27
+    }
+]

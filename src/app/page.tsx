@@ -1,4 +1,13 @@
+import { Metadata } from "next";
 import Image from "next/image";
+
+export const metadata: Metadata = {
+    title: {
+       default: "prajjwalsoni", 
+       template: "dfdsfds"
+    }, 
+    description: "prajjwal soni god in himself"
+}
 
 export default function Home() {
   return (
