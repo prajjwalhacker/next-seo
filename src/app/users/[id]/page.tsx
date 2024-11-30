@@ -2,8 +2,7 @@ import React from 'react'
 
 
 
-
-
+//// It is server side rendered component
 async function UserPage({ params }: { params: Promise<{ id: string }>}) {
 
  const res = await params;
@@ -14,6 +13,5 @@ async function UserPage({ params }: { params: Promise<{ id: string }>}) {
         UserPage lululu
     </div>
   )
-
 }
 export default UserPage
